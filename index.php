@@ -1,3 +1,1 @@
-hello this is master
-hi
-kol
+HELLO EVERYONE!!
