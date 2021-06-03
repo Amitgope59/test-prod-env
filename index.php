@@ -1,2 +1,1 @@
-HELLO EVERYONE!!
-Welcome Amit
+Hello from Dev Side!
